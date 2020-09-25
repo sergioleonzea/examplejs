@@ -1,1 +1,1 @@
-# examplejs
+# ejemplos de aprendisaje sobre javascript
